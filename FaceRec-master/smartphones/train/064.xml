@@ -1,0 +1,26 @@
+<annotation>
+	<folder>smartphones</folder>
+	<filename>064.jpg</filename>
+	<path>C:\Users\Stas\Univercity_cameras\FaceRec-master\smartphones\064.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>365</width>
+		<height>411</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smartphone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>103</xmin>
+			<ymin>54</ymin>
+			<xmax>272</xmax>
+			<ymax>369</ymax>
+		</bndbox>
+	</object>
+</annotation>

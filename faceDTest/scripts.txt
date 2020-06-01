@@ -1,0 +1,12 @@
+pip install --upgrade pip
+pip list
+
+
+python3 -m venv /path/to/new/virtual/environment
+
+
+myvenv\Scripts\activate
+
+pip freeze>req.txt
+pip install -r requirements.txt --no-index --find-links file:///tmp/packages
+pip install -U -r requirements.txt
